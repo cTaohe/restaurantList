@@ -27,6 +27,11 @@ mkdir restaurantList
 npm i express
 ```
 
+安裝 handlebars
+```
+npm i express-handlebars
+```
+
 安裝 nodemon
 ```
 npm install -g nodemon
