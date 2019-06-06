@@ -10,11 +10,11 @@
 ## 安裝
 
 ### 前置作業
-`nvm → Node.js → Express → nodemon`
+`nvm → Node.js → Express → handlebars → nodemon`
 
 Windows 安裝 [nvm](https://github.com/coreybutler/nvm-windows/releases) 
 
-透過 Terminal
+以下安裝全透過 `Terminal`
 
 安裝 Node.js
 ```
